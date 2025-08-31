@@ -1,7 +1,7 @@
-# 🚀 Vatshal's Python Projects
+# Python Projects
 > A portfolio of Python projects showcasing programming skills, problem-solving, and creativity.
 
-[LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](#)  
+[LinkedIn](https://www.linkedin.com/in/vatshal/)  
 
 ---
 
@@ -21,8 +21,6 @@ A Python-based personal assistant that can:
 
 **Skills demonstrated:** Python, APIs, text-to-speech, modular programming  
 
-**Screenshot / GIF:**  
-![Jarvis Screenshot](path/to/jarvis_screenshot.png)  
 
 ---
 
@@ -34,25 +32,20 @@ A Python-based personal assistant that can:
 
 **Skills demonstrated:** Control structures, random module, basic game logic  
 
-**Screenshot / GIF:**  
-![Snake Water Gun Screenshot](path/to/snake_water_gun.png)  
 
 #### 🎯 Perfect Guess Number
 - A number guessing game with feedback loops  
 - Player tries to guess the randomly generated number  
 
 **Skills demonstrated:** Loops, conditionals, input/output handling  
-
-**Screenshot / GIF:**  
-![Perfect Guess Number Screenshot](path/to/perfect_guess_number.png)  
-
+ 
 ---
 
 ## ⚙️ Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/project.git
+git clone https://github.com/VatshalUpadhyay/project.git
 cd project
 
 # Optional: create a virtual environment
